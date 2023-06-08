@@ -1,5 +1,6 @@
-#!/bin/bash
+# Pre-requistites to run this script-[curl, jq and mailx (In case you wish to send email)]
 
+#!/bin/bash
 clear
 echo -e "\t\t\t\t#######################\t\tPR SUMMARY UTILITY\t#######################\n"
 
